@@ -2,9 +2,9 @@
 This is a 3D action game based on the Girls' Frontline
 
 ## Contributor
-- Shawn
-- Oh
-- Park
+- Shawn (Programming, Design / 2017-12-14)
+- Oh (3D Graphics / 2017-12-14)
+- Park (2D Graphics / 2017-12-14)
 
 ## Details
 - This project is non commercial usage 
